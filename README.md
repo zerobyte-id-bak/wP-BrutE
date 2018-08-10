@@ -36,5 +36,5 @@ How to use?
 ```
 admin@zerobyte.id:~$ git clone https://github.com/zerobyte-id/wP-BrutE.git
 admin@zerobyte.id:~/wP-BrutE$ cd wP-BrutE
-admin@zerobyte.id:~/wP-BrutE$ chmod +x exploit.sh && ./exploit.sh target.com/wordpress
+admin@zerobyte.id:~/wP-BrutE$ chmod +x exploit.sh && ./exploit.sh list.txt
 ```
